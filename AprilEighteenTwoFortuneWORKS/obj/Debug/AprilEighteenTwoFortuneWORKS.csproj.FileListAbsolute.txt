@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AprilEighteenTwoFortuneWORKS\AprilEighteenTwoFortuneWORKS\bin\Debug\AprilEighteenTwoFortuneWORKS.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AprilEighteenTwoFortuneWORKS\AprilEighteenTwoFortuneWORKS\bin\Debug\AprilEighteenTwoFortuneWORKS.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AprilEighteenTwoFortuneWORKS\AprilEighteenTwoFortuneWORKS\bin\Debug\AprilEighteenTwoFortuneWORKS.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AprilEighteenTwoFortuneWORKS\AprilEighteenTwoFortuneWORKS\obj\Debug\AprilEighteenTwoFortuneWORKS.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AprilEighteenTwoFortuneWORKS\AprilEighteenTwoFortuneWORKS\obj\Debug\AprilEighteenTwoFortuneWORKS.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AprilEighteenTwoFortuneWORKS\AprilEighteenTwoFortuneWORKS\obj\Debug\AprilEighteenTwoFortuneWORKS.pdb
